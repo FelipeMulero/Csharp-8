@@ -1,2 +1,2 @@
 # Csharp-8
- Avançando um pouco na Trilha C# - .NET venho para aula 08 onde começo a ter a primeira intregração do C#com .NET
+ Avançando um pouco na Trilha C# venho para aula 08, agora vou dar continuação para o aprendizado de Csharp na faculdade, onde parei em Array no Forms e depois iniciei Xamarim, agora tenho como objetivo aprender .NET para me especializar mais no DotNet.
